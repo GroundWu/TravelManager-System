@@ -1,4 +1,4 @@
-# TravelManager-
+# TravelManager System
 使用java swing以及与SQL（ORACLE）的接口编写一个简单的旅行预订系统。该系统涉及的信息有航班，出租车，宾馆房间和客户的数据信息。他们的关系模式如下：
 FLIGHTS (String flightNum, int price, int numSeats, int numAvail, String FromCity, String ArivCity)；
 HOTELS(String location, int price, int numRooms, int numAvail)；
